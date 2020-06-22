@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "블로그 시작하기"
 date:   2020-06-23 03:47:12 +0900
 categories: jekyll update
