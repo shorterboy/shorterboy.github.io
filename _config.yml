@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "JiWoong Song"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "군대 가기 전 소소하게 정리하는 블로그"
   location         : "Asia/Seoul"
   email            :
   links:
